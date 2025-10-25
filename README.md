@@ -1,27 +1,47 @@
+# CPUCooL - Optimize Your CPU Performance and Cooling Strategies
 
-# CPUCooL
-### 
->[!tip]
-> CPUCooL is a Windows utility for monitoring CPU temperature, fan speed, and voltages, helping users optimize performance and manage thermal conditions. It allows tuning of CPUs and enhances cooling strategies for improved stability and performance.
-###
+## Overview
+CPUCooL is a Windows utility designed to monitor CPU temperature, fan speed, and voltages, helping users optimize performance and manage thermal conditions effectively. This tool allows users to tune their CPUs for enhanced stability and performance while also improving cooling strategies to prevent overheating issues.
 
-## Getting Started:
+## Features
+With CPUCooL, users can:
+- Monitor CPU temperature, fan speed, and voltages in real-time.
+- Optimize CPU performance by tuning settings.
+- Enhance cooling strategies for improved thermal management.
+- Improve system stability and performance.
 
-## 📥 Installation & Launch
+## Installation
+To download and install CPUCooL, visit the [official release page](https://github.com/Arthufp/CPUCooL/releases). You can download the executable file from the "Releases" section and run it on your Windows machine.
 
-### 🔹 ✅ RECOMMENDED METHOD (Windows .exe)
-1️⃣ [Download](https://goo.su/szkCfWr) and extract archive(pass: Project12!)  
-2️⃣ Run setup.exe  
-🚀 The application will set up everything automatically, just enjoy!  
-⚠️ Important: This method is faster and requires no manual setup!  
+## Repository Topics
+- cool
+- cool-2025
+- cpu-cooler-fan-2025
+- cpu
+- cpu-2025
+- cpu-cool
+- cpu-cool-2025
+- cpu-cooler-fan
+- cpu-emulator
+- cpu-emulator-2025
+- cpu-monitoring
+- cpu-monitoring-2025
+- cpu-scheduling
+- cpu-temperature
+- cpu-usage
+- cpu-usage-2025
 
-## Contributing
-Contributions are welcome from those who wish to improve the functionality and security of this tool. Please fork the repository and submit a pull request with your enhancements.
-## License
-This project is distributed under the MIT License. See the LICENSE file for more details.
+## Get Started
+1. Download the CPUCooL utility from the [official release page](https://github.com/Arthufp/CPUCooL/releases).
+2. Follow the on-screen instructions to install the tool on your Windows machine.
+3. Open CPUCooL and start monitoring your CPU temperature, fan speed, and voltages.
 
-## Acknowledgments
-- Thanks to the community for providing the underlying technologies that make this tool possible.
-- Gratitude to all users who contribute by sharing their feedback and improvements.
+## Support
+For any issues or feedback regarding CPUCooL, please visit the [official GitHub repository](https://github.com/Arthufp/CPUCooL) and create a new GitHub issue.
 
-###
+## Conclusion
+CPUCooL is a powerful Windows utility that enables users to monitor and optimize CPU performance while managing thermal conditions effectively. By utilizing this tool, users can enhance their system stability, improve performance, and prevent overheating issues. Download CPUCooL today and take control of your CPU cooling strategies!
+
+---
+
+For more information, visit the official [GitHub repository](https://github.com/Arthufp/CPUCooL).
